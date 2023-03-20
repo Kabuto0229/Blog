@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kabuto&#39;s Blog</title>
+  
+  <subtitle>Blog</subtitle>
+  <link href="https://kabuto0229.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://kabuto0229.github.io/blog/"/>
+  <updated>2023-03-20T13:37:38.087Z</updated>
+  <id>https://kabuto0229.github.io/blog/</id>
+  
+  <author>
+    <name>Kabuto</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://kabuto0229.github.io/blog/posts/1/"/>
+    <id>https://kabuto0229.github.io/blog/posts/1/</id>
+    <published>2023-03-20T13:37:38.087Z</published>
+    <updated>2023-03-20T13:37:38.087Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#%E6%8A%98%E5%8F%A0&quot;&gt;折叠&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#%E9%9A%90%E8%97%8F%E6%96%87%E5%AD%97&quot;&gt;隐藏文字&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo外挂标签</title>
+    <link href="https://kabuto0229.github.io/blog/posts/64a5dea2/"/>
+    <id>https://kabuto0229.github.io/blog/posts/64a5dea2/</id>
+    <published>2023-02-03T13:31:25.000Z</published>
+    <updated>2023-02-03T13:31:25.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;butterfly外挂标签&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#butterfly外挂标签&quot;&gt;#&lt;/a&gt; Butterfly外挂标签&lt;/h1&gt;
+&lt;div class=&quot;tag link&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/tags/hexo/"/>
+    
+    <category term="javascript" scheme="https://kabuto0229.github.io/blog/tags/javascript/"/>
+    
+    <category term="css" scheme="https://kabuto0229.github.io/blog/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo+Github Actions自动部署</title>
+    <link href="https://kabuto0229.github.io/blog/posts/hexo-github-actions/"/>
+    <id>https://kabuto0229.github.io/blog/posts/hexo-github-actions/</id>
+    <published>2023-02-01T13:00:00.000Z</published>
+    <updated>2023-02-02T14:26:15.000Z</updated>
+    
+    
+    <summary type="html">Github Actions</summary>
+    
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/tags/hexo/"/>
+    
+    <category term="Git+Github" scheme="https://kabuto0229.github.io/blog/tags/Git-Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo添加文章时自动打开编辑器</title>
+    <link href="https://kabuto0229.github.io/blog/posts/20143/"/>
+    <id>https://kabuto0229.github.io/blog/posts/20143/</id>
+    <published>2023-01-31T10:56:27.000Z</published>
+    <updated>2023-01-31T10:56:27.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/hexojs/hexo/issues/1007&quot;&gt;Github</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/tags/hexo/"/>
+    
+    <category term="javascript" scheme="https://kabuto0229.github.io/blog/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>emoji-cheat-sheet</title>
+    <link href="https://kabuto0229.github.io/blog/posts/44881/"/>
+    <id>https://kabuto0229.github.io/blog/posts/44881/</id>
+    <published>2023-01-30T17:34:13.000Z</published>
+    <updated>2023-01-30T17:34:13.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;emoji-cheat-sheet&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#emoji-cheat-sheet&quot;&gt;#&lt;/a&gt; emoji-cheat-sheet&lt;/h1&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="测试" scheme="https://kabuto0229.github.io/blog/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nvm</title>
+    <link href="https://kabuto0229.github.io/blog/posts/nvm/"/>
+    <id>https://kabuto0229.github.io/blog/posts/nvm/</id>
+    <published>2023-01-26T11:28:27.000Z</published>
+    <updated>2023-03-18T18:35:37.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;nvm（Node Version Manager）：&lt;code&gt;Node&lt;/code&gt;版本管理器，一个</summary>
+        
+      
+    
+    
+    
+    
+    <category term="nvm" scheme="https://kabuto0229.github.io/blog/tags/nvm/"/>
+    
+    <category term="npm" scheme="https://kabuto0229.github.io/blog/tags/npm/"/>
+    
+    <category term="Node" scheme="https://kabuto0229.github.io/blog/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过CMD打开回收站</title>
+    <link href="https://kabuto0229.github.io/blog/posts/34870/"/>
+    <id>https://kabuto0229.github.io/blog/posts/34870/</id>
+    <published>2023-01-26T10:01:29.000Z</published>
+    <updated>2023-01-28T12:15:34.000Z</updated>
+    
+    
+    <summary type="html">Windows通过CMD打开回收站的方法</summary>
+    
+    
+    
+    
+    <category term="cmd" scheme="https://kabuto0229.github.io/blog/tags/cmd/"/>
+    
+    <category term="Windows" scheme="https://kabuto0229.github.io/blog/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建记录</title>
+    <link href="https://kabuto0229.github.io/blog/posts/hexo-notes/"/>
+    <id>https://kabuto0229.github.io/blog/posts/hexo-notes/</id>
+    <published>2023-01-22T11:46:14.000Z</published>
+    <updated>2023-01-29T15:15:25.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;Hexo 官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#环境&quot;&gt;#&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://kabuto0229.github.io/blog/tags/hexo/"/>
+    
+    <category term="Git+Github" scheme="https://kabuto0229.github.io/blog/tags/Git-Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown-Cheatsheet</title>
+    <link href="https://kabuto0229.github.io/blog/posts/37754/"/>
+    <id>https://kabuto0229.github.io/blog/posts/37754/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>1969-12-31T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="测试" scheme="https://kabuto0229.github.io/blog/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown测试</title>
+    <link href="https://kabuto0229.github.io/blog/posts/65346/"/>
+    <id>https://kabuto0229.github.io/blog/posts/65346/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>1969-12-31T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">Markdown测试</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="https://kabuto0229.github.io/blog/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kabuto0229.github.io/blog/posts/16107/"/>
+    <id>https://kabuto0229.github.io/blog/posts/16107/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>1969-12-31T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
